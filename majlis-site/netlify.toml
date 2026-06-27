@@ -1,0 +1,7 @@
+[build]
+  # الموقع ثابت (HTML/CSS/JS) في نفس المجلد
+  publish = "."
+  functions = "netlify/functions"
+
+[functions]
+  node_bundler = "esbuild"
