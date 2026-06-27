@@ -16,9 +16,13 @@
 
 MEG addresses **Challenge 1 — taking the first entrepreneurial step** and **Challenge 3 — the data gap for local entrepreneurs** with one system. In Al Qua'a (~120 km from central Al Ain), first-time founders have ideas and skills but no nearby answer to *"what do I do first?"* — licences, costs, who to approach — while entrepreneurs decide blind because no one produces market data for a community this small and remote. The barriers compound: a founder who finally starts still can't see local demand.
 
+---
+
 ### 2 · Who it's for · *Impact*
 
 Two users, one programme. The **first-time founder** — an idea or a skill (e.g. someone from a camel-farming family), never started a business, doesn't know the first step. The **local entrepreneur** — operating or planning, but deciding without affordable market research. Both live where business-support infrastructure is thin or absent.
+
+---
 
 ### 3 · The solution · *Relevance · Readiness*
 
@@ -26,47 +30,85 @@ A single-page platform with four sections, paired with workshops run inside the 
 
 | Section | Role |
 |---|---|
-| **Home** | Mission, the pilot, how other majalis join |
-| **Workshops** | Each session's topic, audience, date, location |
-| **AI Assistant** | رائد أعمال المجالس — 24/7, UAE-dialect Arabic |
-| **Research** | Workshop data published as plain articles |
+| **Home** | Mission, pilot context, how other majalis can join |
+| **Workshops** | Session topics, audience, dates, and location |
+| **AI Assistant** | رائد أعمال المجالس — 24/7 support in UAE dialect Arabic |
+| **Research** | Published insights from workshop-collected data |
 
-Each workshop does two jobs at once: it teaches founders the basics (licensing, finance, idea-to-business), and — for chosen demographic groups — runs a structured, anonymised study that becomes local market data. **رائد أعمال المجالس** answers in UAE dialect so a rural founder can ask the way they speak, grounded in public UAE regulatory sources with a review date on every answer.
+Each workshop has a dual purpose: it teaches foundational entrepreneurship skills (licensing, finance, idea validation) while optionally collecting structured, anonymised responses from specific demographic groups. These responses are later transformed into localized market insights published in the Research section.
 
-### 4 · Impact & testable claims · *Impact · Evidence*
+The AI assistant, **رائد أعمال المجالس**, responds in UAE dialect Arabic and is grounded in publicly available UAE regulatory and business guidance sources, with clear reference updates where applicable.
 
-Every claim is specific and falsifiable, tracked and reported on the Research section:
+---
 
-| Claim | How it's tested |
-|---|---|
-| A founder names a concrete next action before leaving a workshop | Pre/post form; completion rate |
-| The assistant reaches UAE-specific licensing/funding info in one conversation | Task-completion test on a defined scenario |
-| Each demographic session yields an analysable response set on local demand | Published article with sample size, method, findings |
-| The site works on mobile with no login, download, or account | Open it on a fresh mobile browser, end to end |
+### 4 · Impact & validation model · *Evidence · Measurability*
 
-### 5 · Feasibility & deployment · *Feasibility*
+MEG is designed around **testable outcomes rather than abstract impact claims**. Every claim is linked to a measurable indicator so the system can be validated or rejected during the pilot phase.
 
-The Majlis already exists and is already used for community programming — no venue cost. The site is static (low-cost host or GitHub Pages, no server); the assistant is API-based and scales with usage. One trained facilitator per session runs a documented, transferable curriculum — no full-time hire. **Honest constraints:** the first cycle needs a credible facilitator; research quality depends on attendance (reported with each finding); the assistant is grounded in public sources and is **not** legal advice.
+**Core measurable outcomes:**
 
-### 6 · Scalability · *Scalability*
+- **Action conversion:**  
+  A participant can clearly state *one concrete next business step* (e.g., license inquiry, product validation, supplier contact) before leaving a workshop.  
+  → Measured through pre/post workshop forms and completion rate.
 
-Each new Majlis reuses the shared template, curriculum, research standard, and assistant engine, and localises branding, regulations, and research questions. Growth is modular — no deployment depends on another — so each Majlis that joins becomes part of a distributed, community-powered research network producing local market intelligence no commercial firm has an incentive to make. Eligible for continued support through **Athar+**.
+- **Assistant effectiveness:**  
+  The AI assistant provides a **complete, relevant UAE-specific answer** (licensing, funding, or setup path) in a single interaction for defined scenarios.  
+  → Measured using standardized task-based evaluation scripts.
 
-### 7 · Evidence & validation · *Evidence*
+- **Local demand signal generation:**  
+  Each demographic workshop produces a **structured dataset of responses** that can be analyzed into clear demand or opportunity insights.  
+  → Measured by number of valid responses, completeness, and publishable analysis output.
 
-The Majlis is a proven delivery channel across the UAE: flu vaccination through Al Ain majalis (Abu Dhabi Public Health Centre)، as well as public majlis programming (e.g. [@majalisabudhabi](https://www.instagram.com/majalisabudhabi/?hl=ar)) shows active health, cultural, and social outreach — **but with no entrepreneurship or market-research focus**. The channel is proven; MEG is the first to point it at business. **Built now:** the single-page site is live, including the assistant section. **Not yet:** the pilot hasn't run its first cycle, so impact figures are projections, not measurements.
+- **Accessibility and usability:**  
+  The platform works end-to-end on a mobile device with **no login, no installation, and no onboarding friction**.  
+  → Verified through real-device testing under fresh browser conditions.
+
+This structure ensures MEG is evaluated based on **observable behavior and system outputs**, not assumptions.
+
+---
+
+### 5 · Feasibility & deployment · *Practicality*
+
+The Majlis already exists and is already used for community programming — no venue cost. The site is static (low-cost hosting or GitHub Pages, no server required); the assistant runs via API and scales with usage. One trained facilitator per session delivers a documented curriculum, making the model transferable without permanent staffing overhead.
+
+**Constraints:** The first pilot requires a credible facilitator; data quality depends on attendance and participation rates (which are transparently reported); and the AI assistant is informational only and not legal or financial advice.
+
+---
+
+### 6 · Scalability · *Replication model*
+
+Each Majlis adopts the same core system: shared website structure, curriculum framework, assistant logic, and research methodology. Local adaptation occurs only in regulatory references, branding, and workshop focus.
+
+This creates a **distributed rural innovation network**, where each Majlis becomes a data node generating localized entrepreneurial insight. Growth is modular — each deployment is independent but interoperable through shared structure and standards. Eligible for continued expansion via **Athar+**.
+
+---
+
+### 7 · Evidence & validation · *Context*
+
+Majalis in the UAE are already established as trusted community infrastructure for outreach and public initiatives, including health awareness and vaccination programs (e.g. Al Ain and Abu Dhabi majlis-based campaigns), as well as civic engagement initiatives documented through public community channels such as @majalisabudhabi.
+
+However, these systems are not currently structured for **entrepreneurship education or localized market data collection**. MEG builds on a proven delivery channel but redirects it toward economic capability building and data generation.
+
+The system is currently in **pre-pilot stage**: the platform exists and is functional, but impact results are not yet empirically validated through full workshop cycles.
+
+---
 
 ### 8 · Verify & tools · *Documentation · Readiness*
 
-On the live platform, open the **AI Assistant** section and ask in Arabic *«كيف أبدأ مشروعي في القوعة؟»* — it should reply in UAE dialect with a step-by-step guide for the Al Ain Region.
+On the live platform, open the **AI Assistant** section and ask in Arabic:  
+*«كيف أبدأ مشروعي في القوعة؟»*  
+It should respond in UAE dialect Arabic with a structured startup pathway tailored to the Al Ain region.
 
-**Tools:** HTML · CSS · JavaScript (single-page site) · an LLM API for the assistant · public UAE regulatory and business-guidance materials as its grounding · GitHub.
+**Tools:** HTML · CSS · JavaScript (single-page site) · LLM API integration · UAE public regulatory sources · GitHub
+
+**Additional project assets:**  
+The repository includes a **project poster** summarizing MEG’s mission, structure, and pilot design for exhibition and hackathon presentation. It also includes a **presentation deck** used for pitching the project, covering problem framing, system design, pilot methodology, and scalability model.
 
 ---
 
 <div align="center">
 
-**Tatweer Hackathon · 26–28 June 2026 · Al Qua'a, Al Ain, UAE**
+**Tatweer Hackathon · 26–28 June 2026 · Al Qua'a, Al Ain, UAE**  
 *In collaboration with Abu Dhabi University · Post-event support via Athar+*
 
 </div>
