@@ -113,3 +113,4 @@ The repository includes a **project poster** summarizing MEG’s mission, struct
 *In collaboration with Abu Dhabi University · Post-event support via Athar+*
 
 </div>
+![QR Code](qr-code.png)
