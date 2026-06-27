@@ -6,8 +6,6 @@
 
 **🌐 Live platform:** [`https://loquacious-dragon-0f17b3.netlify.app/#home`](#)
 
-** A QR code is in the repo 
-
 *A single-page site (`index.html`) with four sections: **Home · Workshops · AI Assistant · Research**.*
 
 </div>
