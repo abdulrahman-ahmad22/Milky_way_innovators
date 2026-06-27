@@ -54,7 +54,7 @@ Each new Majlis reuses the shared template, curriculum, research standard, and a
 
 ### 7 · Evidence & validation · *Evidence*
 
-The Majlis is a proven delivery channel across the UAE: flu vaccination through Al Ain majalis (Abu Dhabi Public Health Centre), the *Al-Quaa Extreme* community event (Al Ain City Municipality), and a breast-cancer awareness gathering in Awhala, Fujairah. Public majlis programming (e.g. [@majalisabudhabi](https://www.instagram.com/majalisabudhabi/?hl=ar)) shows active health, cultural, and social outreach — **but no entrepreneurship or market-research use**. The channel is proven; MEG is the first to point it at business. **Built now:** the single-page site is live, including the assistant section. **Not yet:** the pilot hasn't run its first cycle, so impact figures are projections, not measurements.
+The Majlis is a proven delivery channel across the UAE: flu vaccination through Al Ain majalis (Abu Dhabi Public Health Centre)، as well as public majlis programming (e.g. [@majalisabudhabi](https://www.instagram.com/majalisabudhabi/?hl=ar)) shows active health, cultural, and social outreach — **but with no entrepreneurship or market-research focus**. The channel is proven; MEG is the first to point it at business. **Built now:** the single-page site is live, including the assistant section. **Not yet:** the pilot hasn't run its first cycle, so impact figures are projections, not measurements.
 
 ### 8 · Verify & tools · *Documentation · Readiness*
 
