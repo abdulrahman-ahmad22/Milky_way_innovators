@@ -96,7 +96,8 @@ The system is currently in **pre-pilot stage**: the platform exists and is funct
 ### 8 · Verify & tools · *Documentation · Readiness*
 
 On the live platform, open the **AI Assistant** section and ask in Arabic:  
-*«كيف أبدأ مشروعي في القوع»**
+*«كيف أبدأ مشروعي في القوع»*
+
 It should respond in UAE dialect Arabic with a structured startup pathway tailored to the Al Ain region.
 
 **Tools:** HTML · CSS · JavaScript (single-page site) · LLM API integration · UAE public regulatory sources · GitHub
