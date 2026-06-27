@@ -4,7 +4,7 @@
 
 *A community-embedded engine for first-time founders and local entrepreneurs — piloted in the Al Qua'a Majlis, built to scale across rural UAE.*
 
-**🌐 Live platform:** [`https://loquacious-dragon-0f17b3.netlify.app/`](#)
+**🌐 Live platform:** [`https://loquacious-dragon-0f17b3.netlify.app/#home`](#)
 
 *A single-page site (`index.html`) with four sections: **Home · Workshops · AI Assistant · Research**.*
 
